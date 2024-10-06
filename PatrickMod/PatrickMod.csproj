@@ -28,10 +28,10 @@
   
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>D:\Games\SpongeBob SquarePants The Patrick Star Game\Patrick_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>libs\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>D:\Games\SpongeBob SquarePants The Patrick Star Game\Patrick_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>libs\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
